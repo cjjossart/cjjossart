@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cjjossart a bioinformatician with a background in epidemiology with a passion for public health.
+- 👋 Hi, I’m @cjjossart a bioinformatician with a background in epidemiology and a passion for public health.
 - 👀 I’m interested in genomic epidemiology, infectious disease bioinformatic pathways, and practical public health bioinformatic tools.
 - 🌱 I’m currently learning to use containerized tools within workflows, such as Nextflow.  
 
