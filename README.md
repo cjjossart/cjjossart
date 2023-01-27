@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @cjjossart a bioinformatician with a background in epidemiology and a passion for public health.
-- 👀 I’m interested in genomic epidemiology, infectious disease bioinformatic pathways, and practical public health bioinformatic tools.
-- 🌱 I’m currently an a Bioinformatician at the Wisconsin State Laboratory of Hygiene.
-- I am learning to develop and use practical bioinfomratics tools and utilzing workflow managers such as Nextflow. 
+- 👋 Hi, I’m @cjjossart a bioinformatician at the Wisconsin State Laboratory of Hygiene.
+- 👀 I have a background in epidemiology and public health and I am interested in genomic epidemiology, bioinformatic pipeline development, and practical public health bioinformatic tools.
+- 🌱 I’m currently learning best practice in public health through the development and application of bioinformatics pipelines.
 
 
 <!---
